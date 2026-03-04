@@ -1,6 +1,6 @@
 /* Game count badge styling */
 body.lichessTools .lichessTools-gameCountBadge {
-  color: #888;
+  color: #d64040;
   font-size: 0.85em;
   margin-left: 4px;
   margin-top: auto;
@@ -14,7 +14,7 @@ body.lichessTools .lichessTools-gameCountBadge {
 /* Dark theme adjustments */
 body.lichessTools.dark .lichessTools-gameCountBadge,
 body.lichessTools.transp .lichessTools-gameCountBadge {
-  color: #999;
+  color: #d64040;
 }
 
 /* Adjust spacing when both flag and game count are present */
