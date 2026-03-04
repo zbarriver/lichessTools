@@ -1,5 +1,11 @@
 History of features added to LiChess Tools in time (reversed order)
 
+04 Mar
+
+- text filter for piece sets
+- no bullet theme
+- Move Assistant most advanced pieces
+
 27 Feb
 
 - Neonate piece set and board
